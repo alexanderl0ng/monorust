@@ -24,6 +24,8 @@ This repository contains the following projects:
 
 1. **The Rust Book**: Completing the exercises in [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 
+---
+
 ## Usage
 
 To use any of the projects in this repository, you can clone the repository and use cargo to run the projects within the directories. For example, within monorust/the_rust_book/(program directory) you can run 'cargo run' to run the program.
